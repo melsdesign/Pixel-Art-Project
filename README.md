@@ -2,6 +2,8 @@
 This was the second project of the Udacity Front End Developer Phase 1
 The aim of the project was to exercise and to learn to work with javascript
 
+Test it here: https://melsdesign.github.io/Pixel-Art-Project/
+
 #About
 
 For this project, we are given a starter template. Using this template, I'm building the page to do the following:

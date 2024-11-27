@@ -14,7 +14,7 @@ The grid is a <table>.
 Upon clicking on a single grid square, color that square's background color to the currently selected hex color.
 Build it with JavaScript
  
-# To play the game just click here https://melsdesign.github.io/Udacity-Pixel-Art/.
+# To play the game just click here https://melsdesign.github.io/Pixel-Art-Project/
 
 
 
